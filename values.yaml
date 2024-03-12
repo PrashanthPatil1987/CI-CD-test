@@ -1,0 +1,1 @@
+image: ecr.com/nginx:${githash}
